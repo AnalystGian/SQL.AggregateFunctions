@@ -9,10 +9,17 @@ Below are the key objectives of this project:
 
 Below is the summary of the tasks performed in this project:
 Task 1: Introduction
+
 Task 2: COUNT()
+
 Task 3: SELECT DISTINCT & GROUP BY
+
 Task 4: HAVING
+
 Task 5: SUM()
+
 Task 6: MIN() & MAX()
+
 Task 7: AVG()
+
 Task 8: ROUND
