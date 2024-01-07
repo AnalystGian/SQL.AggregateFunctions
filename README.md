@@ -8,6 +8,7 @@ Below are the key objectives of this project:
 2. Understand how to set conditions on the result set of a query using the HAVING clause.
 
 Below is the summary of the tasks performed in this project:
+
 Task 1: Introduction
 
 Task 2: COUNT()
